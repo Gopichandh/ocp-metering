@@ -17,3 +17,6 @@ https://coreos.com/blog/introducing-operator-framework
 
 
 
+https://docs.openshift.com/container-platform/3.11/dev_guide/index.html
+
+
